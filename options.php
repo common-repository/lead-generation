@@ -1,0 +1,2 @@
+﻿<a href="https://www.activeconvert.com/dashboard.do?wp=true" class="button button-primary" target="_blank">Go to Lead Generation by ActiveConvert</a>
+<script> location.href="https://www.activeconvert.com/dashboard.do";</script>
